@@ -1,0 +1,17 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "Personal Finance Tracker - vanilla JS ES modules + localStorage",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test \"tests/**/*.test.js\""
+  },
+  "keywords": [
+    "javascript",
+    "vanilla-js",
+    "localstorage",
+    "learning"
+  ],
+  "license": "MIT"
+}
